@@ -1,0 +1,15 @@
+//
+//  Color+Template.swift
+//
+//  Created by Tremaine Grant on 6/27/23.
+//
+
+import Foundation
+import SwiftUI
+
+extension Color {
+    static let primaryBlue = Color("primaryBlue")
+    static let secondaryBlue = Color("secondaryBlue")
+    static let secondaryWhite = Color("secondaryWhite")
+    static let lightBlue = Color("lightBlue")
+}
